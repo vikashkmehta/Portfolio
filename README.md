@@ -1,7 +1,7 @@
 Portfolio Website
 
 ## Description
-Welcome to my portfolio website! My name is Vikash Kumar Mehta, and I am a BTech CSE student currently in my 3rd year. 
+Welcome to my portfolio website! My name is Vikash Kumar Mehta, and I am a BTech CSE student currently in my final year. 
 This website showcases my journey, projects, and skills as I work towards becoming an excellent software engineer.
 
 ## Features
